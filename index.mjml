@@ -1,0 +1,103 @@
+<mjml lang="en">
+  <mj-head>
+    <mj-title>Hello MJML</mj-title>
+    <mj-preview>Preheader text here</mj-preview>
+    <mj-breakpoint width="480px" />
+    <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+
+    <mj-attributes>
+      <mj-all font-family="Raleway, Arial" />
+
+      <mj-body width="600px" background-color="#f4f4f4" />
+      <mj-section padding="0" />
+      <mj-text font-size="16px" line-height="24px" />
+    </mj-attributes>
+
+    <mj-style>
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#ffffff" padding="25px" border-bottom="1px solid #f4f4f5">
+      <mj-column>
+        <mj-image width="200px" src="https://i.ibb.co/GM9zrws/sketch-logo.png" alt="sketch-logo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="25px 10% 40px 10%">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/mSX0h8T/welcome-to-sketch-1.gif" alt="" />
+
+        <mj-text>
+          <h2><b>Thanks for trying Sketch!</b></h2>
+          <p>We're excited you're here. You're joining a community of over a million designers — from freelancers to some of the world's largest design teams.</p>
+
+          <p>You can't build Rome in a day, but you can do a lot with Sketch in a month! During your 30-day trial period, we'll be sharing some of our favorite tips and resources. They'll help you get the most out of Sketch, bring your design ideas to life and share them with your team.</p>
+
+          <p>Here's what we'll cover:</p>
+
+          <ul>
+            <li><b>How to collaborate with other designers</b> — in real-time</li>
+            <li><b>The power of Workspaces</b> — from concept to handoff in one place</li>
+            <li><b>What's happening in our community</b> — and how to get involved</li>
+          </ul>
+
+          <h2>Getting started</h2>
+
+          <p>Completely new to Sketch? We've pulled together a few useful resources to help you get going:</p>
+
+          <ul>
+            <li style="padding-bottom: 25px;"><a href="#" style="color: #fa6400;"><b>Documentation</b></a>: We know, we know — who reads documentation, right? But we promise you'll find our docs well worth it while you find your way around Sketch.</li>
+            <li style="padding-bottom: 25px;"><a href="#" style="color: #fa6400;"><b>Videos and tutorials</b></a>: Explore some of our most powerful features with bite-size video guides.</li>
+            <li style="padding-bottom: 25px;"><a href="#" style="color: #fa6400;"><b>Blog</b></a>: Discover the latest from the Sketch team — from breakdowns of new Mac app features to examples of how product teams use Sketch to design, prototype and collaborate.</li>
+            <li style="padding-bottom: 25px;"><a href="#" style="color: #fa6400;"><b>Daily inspiration</b></a>: Follow us on <a href="#" style="color: #fa6400;"><b>Twitter</b></a>, <a href="#" style="color: #fa6400;"><b>Instagram</b></a> and <a href="#" style="color: #fa6400;"><b>Dribbble</b></a> to see what other Sketch users are working on, and even get featured yourself. Just tag your posts #MadeWithSketch! </li>
+          </ul>
+
+          <h2>What's Next?</h2>
+
+          <p>We'll be in touch again in a few days to talk Workspaces. They're home to the features and tools that help you <b>collaborate with project managers, developers and others</b> (even Windows users!) in Sketch.</p>
+
+          <p>If you ever have any questions, just <a href="#" style="color: #fa6400;">tweet us at @sketchhelp</a>. We're always happy to help!</p>
+
+          <p>Thanks again. It's great to have you on board! 🛳</p>
+
+          <p><b>— The Sketch Team</b></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f4f4" padding-top="20px">
+      <mj-column>
+        <mj-text align="center" padding="0">
+          <p><small>Sketch B.V., Flight Forum 40 Ground floor, <br /> 5657 DB Eindhoven, the Netherlands</small></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f4f4">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0">
+          <mj-social-element name="facebook" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="pinterest" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="linkedin" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="tumblr" href="https://mjml.io/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f4f4" padding-bottom="20px">
+      <mj-column>
+        <mj-text align="center" padding="0">
+          <p><small><a href="#" style="color: #000000;">Manage your email preferences</a><br /><a href="#" style="color: #000000;">Unsubscribe from all future emails</a></small></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
