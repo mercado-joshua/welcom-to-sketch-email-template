@@ -1,7 +1,7 @@
 # Title: Welcome to Sketch Email Template
 
-- Click [here](https://mercado-joshua.github.io/virama-landing-page/) to view the project.
-- Checkout `index.html` for source code.
+- Click [here](https://mercado-joshua.github.io/welcome-to-sketch-email-template/) to view the project.
+- Checkout `index.mjml` for source code.
 
 ## Type
 
